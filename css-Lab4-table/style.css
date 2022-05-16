@@ -1,0 +1,12 @@
+h2.heading {
+    /* font-size: 5px; */
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+  
+table,td,th {
+    border: 0.005em solid black;
+}
